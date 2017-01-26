@@ -99,4 +99,15 @@ nav > ul > li > a.active:hover {
   padding-top: 0px;
 }
 
+.sectionsA {
+  width: 100%;
+  height: 500px;
+  background-color: #244675;
+}
+
+.sectionsB{
+  width: 100%;
+  height: 500px;
+  background-color: #fff;
+}
 
